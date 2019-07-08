@@ -3,8 +3,15 @@
 This is the implementation of the following paper:
 
 ```
-Amir H. Jadidinejad, Craig Macdonald and Iadh Ounis, Unifying Explicit and Implicit Feedback for Rating Predictionand Ranking Recommendation Tasks, International Conference on the Theory of Information Retrieval (ICTIR), 2019.
+@InProceedings{unifying_exp0licit_implicit,
+  author    = {Amir H. Jadidinejad and Craig Macdonald and Iadh Ounis},
+  title     = {Unifying Explicit and Implicit Feedback for Rating Predictionand Ranking Recommendation Tasks},
+  publisher = {ACM},
+  booktitle = {International Conference on the Theory of Information Retrieval (ICTIR)},
+  year      = {2019},
+}
 ```
+
 See [the paper](#) for more details.
 
 
@@ -22,16 +29,4 @@ Use the corresponding Jupyter notebook to reproduce the results of each dataset:
 * [Steam](https://github.com/amirj/unifying_explicit_implicit/blob/master/weak_recsys_steam.ipynb)
 * [Douban](https://github.com/amirj/unifying_explicit_implicit/blob/master/weak_recsys_douban.ipynb)
 * [Dianping](https://github.com/amirj/unifying_explicit_implicit/blob/master/weak_recsys_dianping.ipynb)
-
-
-## How to cite?
-```
-@InProceedings{unifying_exp0licit_implicit,
-  author    = {Amir H. Jadidinejad and Craig Macdonald and Iadh Ounis},
-  title     = {Unifying Explicit and Implicit Feedback for Rating Predictionand Ranking Recommendation Tasks},
-  publisher = {ACM},
-  booktitle = {International Conference on the Theory of Information Retrieval (ICTIR)},
-  year      = {2019},
-}
-```
 
