@@ -27,7 +27,7 @@ See [the paper](#) for more details.
 ## How to reproduce?
 Use the corresponding Jupyter notebook to reproduce the results of each dataset:
 * [GoodReads Children](https://github.com/amirj/unifying_explicit_implicit/blob/master/weak_recsys_goodreads_children.ipynb)
-* [GoodReads Comics & Graphics)](https://github.com/amirj/unifying_explicit_implicit/blob/master/weak_recsys_goodreads_comics.ipynb)
+* [GoodReads Comics & Graphics](https://github.com/amirj/unifying_explicit_implicit/blob/master/weak_recsys_goodreads_comics.ipynb)
 * [GoodReads Fantasy & Paranormal](https://github.com/amirj/unifying_explicit_implicit/blob/master/weak_recsys_goodreads_Fantasy.ipynb)
 * [Steam](https://github.com/amirj/unifying_explicit_implicit/blob/master/weak_recsys_steam.ipynb)
 * [Douban](https://github.com/amirj/unifying_explicit_implicit/blob/master/weak_recsys_douban.ipynb)
